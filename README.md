@@ -1,6 +1,6 @@
 # DESENVOLVIMENTO DE UMA MÁQUINA CNC UTILIZANDO ARDUINO E LIXO ELETRÔNICO
 
-Este projeto foi desenvolvido para conclusão de curso Técnico em Informática pelo Instituto Federal do Amazonas - IFAM/Campus Lábrea. Tem como objetivo desenvolver uma máquina CNC (Comandos Numéricos Computadorizado) de baixo custo, software e hardware abertos, utilizando a plataforma Arduino e componentes eletrônicos reciclados. A máquina será feita através de drives CD-ROM e um servo motor, que serão controlados pelo arduino e irão trabalhar nos eixos x, y e z, com a finalidade de produzir desenhos.
+Este projeto foi desenvolvido como requisito para a conclusão do curso Técnico em Informática no Instituto Federal do Amazonas - Campus Lábrea. O objetivo foi criar uma máquina CNC (Comando Numérico Computadorizado) de baixo custo, utilizando software e hardware de código aberto. Para isso, foi utilizado a plataforma Arduino e componentes eletrônicos reciclados. A estrutura da máquina foi montada a partir de drives de CD-ROM, que, controlados pelo Arduino, operam na produção de desenhos.
 
 ![Imagem não encontrada!](images/img-cnc.jpg)
 
